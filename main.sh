@@ -24,10 +24,10 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "  Welcome To ID STORE SCRIPT ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Welcome To SCRIPT MOR LIL${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e " This Will Quick Setup VPN Server On Your Server"
-echo -e "  Auther : ${green}ID STORE ® ${NC}${YELLOW}(${NC} ${green} YANG NYOLONG YATIM ${NC}${YELLOW})${NC}"
-echo -e " © Recode By My Self ID STORE ${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
+echo -e "  Auther : ${green}MOR LIL ® ${NC}${YELLOW}(${NC} ${green} YANG NYOLONG YATIM ${NC}${YELLOW})${NC}"
+echo -e " © Recode By My Self MOR LIL ${YELLOW}(${NC} 2026 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 2
@@ -82,7 +82,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/Ibnubae765/v1/main/"
+    REPO="https://raw.githubusercontent.com/soufianetech11/v1/main/"
 
 ####
 start=$(date +%s)
